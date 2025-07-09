@@ -1,6 +1,6 @@
 # 🚍 DAMRI Website Redesign (Next.js)
 
-![image](https://github.com/user-attachments/assets/18f1165f-5759-439a-a894-998f54173e7f)
+![image](https://github.com/user-attachments/assets/fd09e00a-3987-45cd-8384-130ec31d0010)
 
 Redesign of the DAMRI website using the **Next.js** framework as a Web Client Development project by students of Cakrawala University.
 
@@ -14,8 +14,8 @@ This project is developed by students of **Informatics Engineering** from **Cakr
 
 ## 🛠️ Technologies Used
 
-- [Next.js](https://nextjs.org/) – React Framework for server-side rendering and routing
-- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 📦 How to Run:
